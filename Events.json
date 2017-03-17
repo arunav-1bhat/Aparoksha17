@@ -502,10 +502,10 @@
   },
   "123" : {
     "date" : "23-03-2017",
-    "description" : "The Matathon is a 48 hr online coding based event on the omnipotent developement platform MATLAB. A problem will be uploaded every 8 hrs on the portal and the contestants will have to upload their M-file on the portal. ",
+    "description" : "It is a Matlab coding competition for 36 hours consisting of EIGHT Questions , which will be uploaded EVERY 4TH HOUR . Difficulty of Questions would vary accordingly. ",
     "extrainfo" : {
       "one" : {
-        "infoDetail" : "To be updated",
+        "infoDetail" : "Participants should submit their Codes (.M file) on https://matathon2017.github.io/Question.html .For More Info regarding Matathon stay tuned to https://goo.gl/NT8mEl & https://matathon2017.github.io/index.html",
         "infoTitle" : "Event Prizes"
       }
     },
@@ -513,14 +513,14 @@
     "location" : "Computer Centre 3",
     "name" : "MATATHON",
     "organizers" : [ {
-      "contact" : "",
-      "name" : "Arunav"
+      "contact" : "9634708228",
+      "name" : "Arunav Bhatnagar"
     }, {
       "contact" : "",
       "name" : "Ram Narayan Mishra"
     } ],
     "time" : "10:00 AM onwards",
-    "type" : ""
+    "type" : "Individual"
   },
   "124" : {
     "date" : "24-03-2017",
